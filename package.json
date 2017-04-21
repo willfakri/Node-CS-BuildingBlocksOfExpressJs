@@ -1,0 +1,15 @@
+{
+  "name": "cursoexpress",
+  "version": "1.0.0",
+  "description": "Curso do Code Academy \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D Building Blocks of ExpressJs do site Code Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "expressjs",
+    "codeacademy"
+  ],
+  "author": "Willian",
+  "license": "ISC"
+}
